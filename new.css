@@ -1,0 +1,27 @@
+form{
+    text-align: center;
+    justify-content: center;
+    height: 500px;
+    width: 500px;
+    background-color:rgb(107, 215, 245);
+    border-color: lavender;
+    border-width: 5px;
+    
+}
+
+h1{
+    color:rosybrown;
+}
+
+body{
+    justify-content: center;
+}
+
+#btn{
+    color:rebeccapurple;
+    background-color: bisque;
+    height: 20px;
+    width: 60px;
+    align-self: center;
+    margin-top:20px;
+}
